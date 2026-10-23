@@ -1,0 +1,11 @@
+# 视频文件（体积过大，不纳入仓库）
+*.mp4
+*.[mM][pP]4
+
+# 主 PPT（401 MB，超过 GitHub 单文件 100 MB 限制），改为作为 Release 附件提供
+4、基于人工智能与 BIMBase 平台的预制舱变电站一体化设计及结构优化.pptx
+
+# 系统文件
+Thumbs.db
+.DS_Store
+desktop.ini
